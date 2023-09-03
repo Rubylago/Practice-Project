@@ -1,4 +1,4 @@
-name: Lint, Test, Deploy 
+name: Lint, Test, Deploy on Dispatch
 on: workflow_dispatch
 jobs:
   test_lint_deploy:
